@@ -1,2 +1,2 @@
 # odin-recipes
-this repository contains some recipes that you can use on such need.
+lasagna and pasta recipes also its first assignment on #top
