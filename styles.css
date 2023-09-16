@@ -1,9 +1,13 @@
 h1 {
     background-color: aqua;
     color: pink;
+    font-family: sans-serif;
+    padding: 16px 8px;
 }
 
 h3 {
     background-color: beige;
     color: black;
+    padding: 8px;
+    text-align: center;
 }
